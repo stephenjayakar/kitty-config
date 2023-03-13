@@ -10,8 +10,3 @@ map ctrl+tab next_window
 map ctrl+shift+tab previous_window
 map ctrl+alt+tab next_tab
 map ctrl+alt+shift+tab previous_tab
-
-# BEGIN_KITTY_THEME
-# 1984 Dark
-include current-theme.conf
-# END_KITTY_THEME
